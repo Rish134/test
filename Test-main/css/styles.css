@@ -1,0 +1,74 @@
+h1{
+  font-family: Montaplex;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+}
+#test-1{
+  padding-top: 5%;
+    background-color: #ff4646;
+}
+/* #test-1{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  text-align: left;
+  font-size: 55px;
+  font-family: Montaplex;
+  color: #fff;
+} */
+/* .left{
+  position: absolute;
+  top: 10%;
+  width: 100%;
+  text-align: left;
+  font-size: 55px;
+  font-family: Montaplex;
+  color: #fff;
+} */
+#test-1 .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+.right{
+  width: 20%;
+  position: absolute;
+  right: 25%;
+}
+/* .centre-text {
+  margin: 0 20px 100px 25px;
+  font-size: 4.5rem;
+  line-height: 1;
+} */
+
+/* .left {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.right {
+  float: right;
+  width: 40%;
+  height: 40%;
+  padding: 120px;
+} */
+.msg{
+  padding-top: 40px;
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Montserrat";
+  color: #fff;
+}
+
+/* Pictures Section */
+
+.photo{
+  width: 60%;
+  border: 100%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 20px;
+}
